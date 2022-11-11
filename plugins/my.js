@@ -22,8 +22,8 @@ let anu = `╭───❑ 「 BALANCE 」 ❑────
            hydratedFooterText: wm,
            hydratedButtons: [{
              urlButton: {
-               displayText: '💠 Source Code',
-               url: 'https://github.com/adiwajshing/Baileys'
+               displayText: '💠 MY WEBSITE',
+               url: 'https://ai-man-123.github.io/wenme/'
              }
 
            },
