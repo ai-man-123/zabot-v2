@@ -25,6 +25,8 @@ Ilman:
 https://github.com/ilmanhdyt
 Amirul: 
 https://github.com/amiruldev20
+Aiman:
+https://github.com/ai-man-123
 `
      const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
      templateMessage: {
@@ -35,8 +37,8 @@ https://github.com/amiruldev20
            hydratedFooterText: wm,
            hydratedButtons: [{
              urlButton: {
-               displayText: '💠 Source Code',
-               url: 'https://github.com/adiwajshing/Baileys'
+               displayText: '💠 My Website',
+               url: 'https://ai-man-123.github.io/wenme/'
              }
 
            },
