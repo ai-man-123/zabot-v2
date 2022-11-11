@@ -20,7 +20,6 @@ let tags = {
   'kerang': 'MENU KERANG',
   'anime': 'MENU ANIME',
   'downloader': 'DOWNLOADER',
-  'nsfw': 'MENU NSFW',
   'tools': 'MENU TOOLS',
   'advanced': 'ADVANCED',
   'quotes': 'MENU QUOTES',
@@ -166,8 +165,8 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
            hydratedFooterText: wm,
            hydratedButtons: [{
              urlButton: {
-               displayText: '💠 Source Code',
-               url: 'https://youtu.be/LdB7EpcQwvA'
+               displayText: '💠 My Website',
+               url: 'https://ai-man-123.github.io/wenme/'
              }
 
            },
